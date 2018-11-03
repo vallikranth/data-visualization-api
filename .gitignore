@@ -1,0 +1,8 @@
+.settings
+.project
+.pydevproject
+.log
+.classpath
+.gradle
+/build/
+/bin/
