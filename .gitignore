@@ -1,7 +1,7 @@
 .settings
 .project
 .pydevproject
-.log
+*.log*
 .classpath
 .gradle
 /build/
